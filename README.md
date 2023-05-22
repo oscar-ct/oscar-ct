@@ -1,4 +1,4 @@
-- 👋 Hey there, check out my portfolio [Oscar Castro](https://oscar-ct.github.io/).
+- 👋 Hey there, check out my portfolio [Oscar Castro](http://oscar-ct.com).
 <!-- - 👀 I’m interested in code, ...
 - 🌱 I’m currently learning Java 17
 - 💞️ I’m looking to collaborate on full-stack java projects
